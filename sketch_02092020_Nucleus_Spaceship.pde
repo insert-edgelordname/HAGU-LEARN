@@ -1,5 +1,7 @@
 //Nucleus Spaceship:
 
+float PosX = 350, PosY = 375;
+
 void setup()
 {
   size (1000, 900);
