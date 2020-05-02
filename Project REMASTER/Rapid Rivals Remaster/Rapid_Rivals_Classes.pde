@@ -1348,16 +1348,16 @@ void setup()
   victory_two = new Spaceship (- 5200, - 3000, PI, 1.1);
   
   //SoundFiles:
-  Kite = new SoundFile (this, "Kite_battletheme.aif");
-  Nucleus = new SoundFile (this, "Nucleus_battletheme.aif");
-  Classic = new SoundFile (this, "Classic_theme.aif");
-  Dread = new SoundFile (this, "Dread_battletheme.aif");
-  SamMax = new SoundFile(this, "Sam&Max_battletheme.aif");
+  Kite = new SoundFile (this, "Kite_battletheme.mp3");
+  Nucleus = new SoundFile (this, "Nucleus_battletheme.mp3");
+  Classic = new SoundFile (this, "Classic_theme.mp3");
+  Dread = new SoundFile (this, "Dread_battletheme.mp3");
+  SamMax = new SoundFile(this, "Sam&Max_battletheme.mp3");
   
-  Menus = new SoundFile (this, "Menus_theme.aif");
+  Menus = new SoundFile (this, "Menus_theme.mp3");
   
-  Victory = new SoundFile (this, "victorynormal.aif");
-  SM_Victory = new SoundFile (this, "SM victory.aif");
+  Victory = new SoundFile (this, "victorynormal.mp3");
+  SM_Victory = new SoundFile (this, "SM victory.mp3");
   
   //SoundFiles Minors:
   confirm1 = new SoundFile (this, "confirmation 1.wav");
